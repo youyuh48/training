@@ -1,11 +1,11 @@
 # ヒトゲノムデータベース GeneCards の使い方
 
-東京農業大学  生命科学部　分子微生物学科
+東京農業大学 生命科学部 分子微生物学科
+Department of Molecular Microbiology,
+Faculty of Life Sciences, Tokyo University of Agriculture
 
-Department of Molecular Microbiology, Faculty of Life Sciences, Tokyo University of Agriculture
-
-志波　優
-Yuh Shiwa, PhD  
+志波 優
+Yuh Shiwa, PhD
 youyuh48@gmail.com
 
 Update: December 15, 2017
@@ -84,7 +84,15 @@ Update: December 15, 2017
 
 [dbSNP](https://www.ncbi.nlm.nih.gov/projects/SNP/)
 
-ヒトゲノムの多型情報（一から数塩基の置換、挿入/欠失、反復等）のデータベース。SNPの集団間での多型頻度を比較も可能。
+ヒトゲノムの多型情報（一から数塩基の置換、挿入/欠失、反復等）のデータベース。
+SNPの集団間での多型頻度を比較も可能。
+
+SNP（一塩基多型）とアレル
+
+![](http://genomicsinitiative.com/fwimages/alleles_320x210.gif)
+
+出典：[What's a SNP, what's a chip,
+and why does all this matter?](http://genomicsinitiative.com/tutorial_a1.html)
 
 ### 多型の遺伝子への影響
 
