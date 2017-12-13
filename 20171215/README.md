@@ -1,11 +1,13 @@
 # ヒトゲノムデータベース GeneCards の使い方
 
 東京農業大学 生命科学部 分子微生物学科
-Department of Molecular Microbiology,
-Faculty of Life Sciences, Tokyo University of Agriculture
+
+Department of Molecular Microbiology, Faculty of Life Sciences, Tokyo University of Agriculture
 
 志波 優
+
 Yuh Shiwa, PhD
+
 youyuh48@gmail.com
 
 Update: December 15, 2017
