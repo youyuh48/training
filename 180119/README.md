@@ -7,7 +7,7 @@ Department of Molecular Microbiology, Faculty of Life Sciences, Tokyo University
 Yuh Shiwa, PhD
 youyuh48@gmail.com
 
-Update: January 19, 2018
+Update: December 14, 2019
 
 ## KEGGとは？
 
