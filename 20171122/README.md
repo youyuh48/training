@@ -7,7 +7,7 @@ Department of Molecular Microbiology, Faculty of Life Sciences, Tokyo University
 Yuh Shiwa, PhD
 youyuh48@gmail.com
 
-Update: December 22, 2017
+Update: January 06, 2020
 
 ## ニュートリゲノミクスとは？
 
@@ -67,7 +67,6 @@ Update: December 22, 2017
 7. `Gene Symbol`をクリックすると、当該遺伝子をNCBIで検索した結果が表示される
 
 * `Name/Gene ID`をクリックすると、当該遺伝子のNCBIに登録されている情報が表示される
-* `Summary`セクションに`Orthologs`欄がある場合、`human`からヒトのオルソログ遺伝子のページが表示される
 
 8. 各実験条件における遺伝子の発現量が表に表示される
 
@@ -89,11 +88,9 @@ Update: December 22, 2017
   - 成分添加群で発現が上昇した3遺伝子（オレンジ色）の遺伝子を調べる。成分添加群が２つ以上ある場合は一つの条件だけで良い、その実験条件名を記載すること。
   - それらの遺伝子名(Gene Symbol)は？
   - それらの遺伝子の発現量(normalized xxx dataの値)は？
-  - それらの遺伝子はヒトのオルソログはあるか？あればその遺伝子名は？
-    - 上記の手順7で当該遺伝子のヒトのオルソログ遺伝子名を表示させる`Official Symbol`
-  - ヒトのオルソログがある場合、[GeneCards](http://www.genecards.org)で調べた遺伝子の機能は？（日本語で説明）
-    - オルソログ遺伝子名を`GeneCards`の検索窓に入力し検索
-    - 対応するヒトのオルソログ遺伝子が見つからない場合は飛ばして良い
+  - NCBIのページに記載されているそれらの遺伝子情報は？
+    - `Official Full Name`
+    - どの組織で発現量が高い？`Expression`欄に記載されている組織名は？
 
 ***
 
